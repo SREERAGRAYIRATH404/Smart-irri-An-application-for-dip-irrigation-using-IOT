@@ -1,20 +1,16 @@
-# Smart-irri-An-application-for-dip-irrigation-using-IOT
-Smart irri:An application for dip irrigation using IOT
+# flutter_application_1
 
-.Open vs code
+A new Flutter project.
 
-.Manage --> Command palette (ctrl + shift + p)
+## Getting Started
 
-.Flutter:new project
+This project is a starting point for a Flutter application.
 
-.Application
+A few resources to get you started if this is your first Flutter project:
 
-.Select the foldor
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-.Name of the file.
-
-.Go to "lib" file
-
-.select main.dart
-
-.Replace it with the given file or past the 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
